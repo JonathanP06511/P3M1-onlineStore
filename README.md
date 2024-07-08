@@ -10,12 +10,12 @@ This project is a microservice developed with Node.js and Express to manage prod
 
 ## Installation
 
-1. Clona este repositorio:
+1. Clone this repository:
     ```bash
     git clone https://github.com/JonathanP06511/P3M2-onlineStore.git
     ```
 
-2. Instala las dependencias:
+2. Install dependencies:
     ```bash
     npm install
     ```
