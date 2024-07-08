@@ -40,7 +40,7 @@ This project is a microservice developed with Node.js and Express to manage prod
 
 2. Run a container using the created image:
     ```bash
-    docker run -p 8080:3003 -d --name container_name image_name
+    docker run -p 8080:3008 -d --name container_name image_name
     ```
 
 3. Open your browser and navigate to http://localhost:8080 to view the frontend interface.
